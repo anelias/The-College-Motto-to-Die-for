@@ -2,7 +2,8 @@ The-College-Motto-to-Die-for
 ============================
 
 A random text generator that combines 100 ways to die from the show, 1000 Ways to Die, with mottos of the top 100 ranked liberal arts colleges by US News
-
+CLICK ON RAW TO SEE THE CODE.
+Done in notepad plus, save as an html file to put it online.
 <html>
 <head>
 </script>
